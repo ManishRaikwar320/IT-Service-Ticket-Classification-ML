@@ -1,4 +1,4 @@
-# 🎫 IT Service Ticket Classification & Prioritization (FUTURE_ML_02)
+# 🎫 IT Service Ticket Classification & Prioritization
 
 ## 🚀 Project Overview
 This project builds a Machine Learning system to automatically classify IT service support tickets and assign priority levels.
